@@ -7,6 +7,6 @@
 <title>欢迎管理taotao-manager</title>
 </head>
 <body>
-<h1>如果你看到此页面，说明taotao-manager已经运行</h1>
+<h1>如果说明taotao-manager已经运行</h1>
 </body>
 </html>
